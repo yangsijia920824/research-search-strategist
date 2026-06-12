@@ -1,0 +1,4 @@
+interface:
+  display_name: "Research Search Strategist"
+  short_description: "Design and iterate rigorous research search strategies"
+  default_prompt: "Use $research-search-strategist to design, test, and refine a literature search for my research question."
